@@ -1,0 +1,17 @@
+---
+title: "FreeBSD/i386 项目"
+sidenav: developers
+---
+
+include::shared/zh-cn/urls.adoc[]
+
+= FreeBSD/i386 项目
+
+[[intro]]
+== 简介
+
+本页面包含 FreeBSD/i386 平台的相关信息。FreeBSD/i386 应支持与 Intel Pentium Pro / Pentium II (i686) 或更好的 CPU 兼容的任何处理器。现代 AMD 和 Intel CPU 建议使用 link:../amd64/[FreeBSD/amd64] 端口以 64 位模式运行。
+
+FreeBSD/i386 默认支持最多 4GiB 内存。内存更多的机器需要运行 link:../amd64/[FreeBSD/amd64]，或者启用 link:{faq}#memory-i386-over-4gb[Physical Address Extension (PAE)] 才能使用超过 4GiB 的内存。
+
+更多 i386 平台详细信息请参阅英文页面：https://www.FreeBSD.org/platforms/i386/

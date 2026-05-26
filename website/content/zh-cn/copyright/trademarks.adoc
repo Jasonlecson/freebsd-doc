@@ -1,0 +1,32 @@
+---
+title: "商标声明"
+sidenav: about
+---
+
+= 商标声明
+
+FreeBSD 是 FreeBSD 基金会的注册商标。
+
+FreeBSD 标志是 FreeBSD 基金会的商标。
+
+有关 FreeBSD 标志的使用信息，请参阅 FreeBSD 基金会的 https://www.freebsdfoundation.org/legal/trademark-usage-terms-and-conditions/[商标使用条款和条件] 页面。
+
+Adobe、Acrobat、Acrobat Reader 和 PostScript 是 Adobe Systems Incorporated 在美国和/或其他国家的注册商标或商标。
+
+AMD、Am486、Am5X86、AMD Athlon、AMD Duron、AMD Opteron、AMD-K6、Athlon、Élan、Opteron 和 PCnet 是 Advanced Micro Devices, Inc. 的商标。
+
+Apple、FireWire、Mac、Macintosh、Mac OS、Quicktime 和 TrueType 是 Apple Computer, Inc. 在美国和其他国家的注册商标。
+
+CVSup 是 John D. Polstra 的注册商标。
+
+F5、F5 Networks 和 F5 标志是 F5 Networks, Inc. 在美国和某些其他国家的商标。
+
+IBM 和 PowerPC 是 International Business Machines Corporation 在美国、其他国家或两者的商标。
+
+IEEE、POSIX 和 802 是 The Institute of Electrical and Electronics Engineers, Inc. 的注册商标。
+
+Intel、Celeron、EtherExpress、i386、i486、Itanium、Pentium 和 Xeon 是 Intel Corporation 或其子公司在美国和其他国家的商标或注册商标。
+
+Linux 是 Linus Torvalds 在美国的注册商标。
+
+更多商标信息请参阅英文完整页面。

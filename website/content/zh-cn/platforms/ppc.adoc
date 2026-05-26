@@ -1,0 +1,14 @@
+---
+title: "FreeBSD/ppc 项目"
+sidenav: developers
+---
+
+include::shared/zh-cn/urls.adoc[]
+
+= FreeBSD/ppc 项目
+
+本页面包含 FreeBSD 在 PowerPC 架构上的移植信息。
+
+包括 32 位和 64 位（big-endian / little-endian）变体。
+
+更多 PowerPC 平台详细信息请参阅英文页面：https://www.FreeBSD.org/platforms/ppc/

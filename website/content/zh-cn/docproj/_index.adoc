@@ -1,0 +1,19 @@
+---
+title: "FreeBSD 文档项目"
+sidenav: docs
+---
+
+= FreeBSD 文档项目
+
+FreeBSD 文档项目负责维护 FreeBSD 的官方文档，包括手册、文章、FAQ 等。
+
+本页面列出了文档项目的相关资源和子项目。
+
+== 主要资源
+
+* link:translations[翻译项目]
+* link:doc-set[文档集合]
+* link:who[项目成员]
+* link:submitting[提交文档]
+
+更多信息请参阅英文页面：https://www.FreeBSD.org/docproj/

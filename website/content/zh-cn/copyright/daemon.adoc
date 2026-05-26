@@ -1,0 +1,31 @@
+---
+title: "BSD Daemon"
+sidenav: about
+---
+
+= BSD Daemon
+
+出现在许多页面上的那个红色小家伙就是 BSD Daemon。在 UNIX(R) 系统中，daemon 是指在后台运行、处理各种任务而无需人工干预的进程。从一般意义上说，daemon 是 demon（恶魔）一词的较古老形式。
+
+在《Unix System Administration Handbook》一书中，Evi Nemeth 这样描述 daemon：
+
+____
+“很多人把 'daemon' 和 'demon' 混为一谈，暗示 UNIX(R) 与地下世界有某种魔鬼般的联系。这是一个严重的误解。'Daemon' 实际上是 'demon' 的更古老形式；daemon 并没有特别的善恶倾向，而是帮助定义一个人的性格或个性。古希腊人 '个人守护神' 的概念类似于现代的 '守护天使' 概念——'eudaemonia' 就是被善良的灵魂帮助或保护的状态。通常，UNIX(R) 系统似乎同时被 daemon 和 demon 所困扰。”（p403）
+____
+
+最早（也是最受欢迎）的 BSD Daemon 形象是由 John Lasseter 创作的。最近的 FreeBSD 特定版本由 http://FromTo.Cc/hosokawa/gallery/[Tatsumi Hosokawa] 完成，但基本灵感无疑来自 John。Daemon 图像的版权持有者和创作者是 mailto:mckusick@mckusick.com[Marshall Kirk McKusick]。同时还有一份简短的 http://www.mckusick.com/beastie/index.html[图片历史] 可供查阅。有一个使用 daemon 图形变体的 FreeBSD 相关 link:../../publish[出版物] 画廊。
+
+各种尺寸的毛绒和针织 Daemon 可以在 http://www.freebsdmall.com[FreeBSD Mall] 购买 image:../../gifs/plueschtier-tiny.jpg[beanie daemon]。
+
+BSD Daemon Copyright 1988 by Marshall Kirk McKusick. All Rights Reserved.
+
+如需使用 Daemon 的许可，请联系：
+
+____
+Marshall Kirk McKusick +
+1614 Oxford St +
+Berkeley, CA 94709-1608 +
+USA
+____
+
+或通过电子邮件联系 mckusick@mckusick.com。

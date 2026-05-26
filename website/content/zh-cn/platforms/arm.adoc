@@ -1,0 +1,33 @@
+---
+title: "FreeBSD/ARM 项目"
+sidenav: developers
+---
+
+include::shared/authors.adoc[]
+include::shared/zh-cn/urls.adoc[]
+
+= FreeBSD/ARM 项目
+
+== 简介
+
+本页面包含 FreeBSD 移植到 32 位和 64 位 ARM 架构及硬件的相关信息。
+
+ARM 端口的讨论在 https://lists.freebsd.org/archives/freebsd-arm[freebsd-arm] 邮件列表中进行。
+
+== 目录
+
+* <<status,当前状态>>
+* <<hw,硬件说明>>
+* <<todo,待完成工作>>
+* <<links,相关链接>>
+* <<miniinst,简易安装指南>>
+* <<list,邮件列表>>
+
+[[status]]
+== 当前状态
+
+32 位 ARMv7 正式为 link:{committers-guide}#archs[Tier 2] 架构。由于主要面向嵌入式领域，link:../../[FreeBSD 项目] 不提供该平台的官方发行版或预编译软件包。不过 FreeBSD/ARM 仍在积极开发和维护中，支持良好，是构建基于 ARM 系统的优秀框架。FreeBSD/arm 之前支持的 ARMv4 和 ARMv5 处理器已在 13.0 版本中移除。FreeBSD/armv7 包含 SMP 支持。
+
+FreeBSD/arm64 支持 64 位 ARMv8 处理器，自 13.0 起为 link:{committers-guide}#archs[Tier 1] 架构。64 位 ARM 平台遵循一套标准规范，单一的 FreeBSD 构建可以在多个厂商的硬件上运行。因此，FreeBSD 为 arm64 提供官方发行版，并提供软件包。
+
+更多 ARM 平台详细信息请参阅英文页面：https://www.FreeBSD.org/platforms/arm/

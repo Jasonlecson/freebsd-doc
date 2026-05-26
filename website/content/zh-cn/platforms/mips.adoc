@@ -1,0 +1,14 @@
+---
+title: "FreeBSD/mips 项目"
+sidenav: developers
+---
+
+include::shared/zh-cn/urls.adoc[]
+
+= FreeBSD/mips 项目
+
+本页面包含 FreeBSD 在 MIPS 架构上的移植信息。
+
+MIPS 端口主要面向嵌入式和网络设备领域。
+
+更多 MIPS 平台详细信息请参阅英文页面：https://www.FreeBSD.org/platforms/mips/

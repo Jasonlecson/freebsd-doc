@@ -1,0 +1,22 @@
+---
+title: "FreeBSD 与 Google Summer of Code"
+sidenav: developers
+---
+
+Google Summer of Code（简称 GSoC）是由 Google 公司赞助的年度活动。
+
+它让贡献者能够在夏季花费 8 到 22 周时间，在开源软件项目中“实习”。
+
+工作将在一位或多位导师的指导下完成，参与者将获得 https://developers.google.com/open-source/gsoc/help/student-stipends[津贴] 作为奖励。
+
+自 2005 年 GSoC 开始以来，FreeBSD 每年都作为指导组织参与，我们正在申请 2026 年的活动。
+
+如果您对操作系统开发感兴趣，在像 FreeBSD 这样历史悠久且成功的开源操作系统中“实习”是一个绝佳的机会。
+
+FreeBSD 成立于 1993 年，是一个面向服务器、桌面和嵌入式计算机平台的高级操作系统。它提供先进的网络功能、令人印象深刻的安全特性以及高性能。
+
+它是许多商业产品的基石，包括 Sony 的 PlayStation、Nintendo 的 Switch、NetApp 的 OnTap/GX、Juniper 的 Junos 操作系统，也是 Apple OS X 核心的起点。
+
+该项目由数百名“提交者”和更多贡献者组成，他们在操作系统的不同部分拥有经验。
+
+更多 GSoC 相关信息请参阅英文页面：https://www.FreeBSD.org/projects/summerofcode/

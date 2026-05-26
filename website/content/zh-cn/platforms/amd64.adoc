@@ -1,0 +1,27 @@
+---
+title: "FreeBSD/amd64 项目"
+sidenav: developers
+---
+
+include::shared/zh-cn/urls.adoc[]
+
+= FreeBSD/amd64 项目
+
+[.right]
+link:../../gifs/daemon_hammer.jpg[image:../../gifs/daemon_hammer-tn15.jpg[BSD Daemon swinging a sledge hammer]]
+
+本页面包含 FreeBSD 移植到 http://www.amd.com/[AMD] AMD64 和 http://www.intel.com/info/em64t[Intel(R) 64] 架构（也常被称为 "x86-64" 或 "x64"）的相关信息。FreeBSD/amd64 适用于几乎所有较新的 AMD 和 Intel CPU。
+
+AMD64 架构之前被称为 "Hammer"。Intel 64 架构之前被称为 Yamhill、Clackamas Technology (CT)、IA-32e 和 EM64T（Extended Memory 64-bit Technology）。
+
+较新的 AMD Sempron(TM)、AMD Opteron(TM)、AMD Athlon(TM) 64、AMD Turion(TM)、AMD Phenom(TM) 和 AMD EPYC(TM) 处理器，以及采用 AMD Zen 核心的处理器，都使用 AMD64 架构。
+
+Intel vPro(TM)、部分 Intel Celeron D（"Prescott" 之后）、Intel Centrino(R) Duo、Intel Centrino(R) Pro、Intel Viiv(TM)、Intel Core(TM)2 Extreme、Intel Core(TM)2 Quad、Intel Core(TM)2 Duo、Intel Xeon（3000 系列、5000 系列和 7000 系列）以及 Intel Core(TM) i 系列处理器使用 Intel(R) 64 架构。
+
+== 当前状态
+
+FreeBSD/amd64 支持 64 位多用户模式，包括单处理器和多处理器模式。
+
+AMD64 平台是 link:{committers-guide}#archs[Tier 1] 的 FreeBSD 平台。
+
+更多 amd64 平台详细信息请参阅英文页面：https://www.FreeBSD.org/platforms/amd64/

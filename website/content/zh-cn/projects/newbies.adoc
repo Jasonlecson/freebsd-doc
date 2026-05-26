@@ -1,0 +1,24 @@
+---
+title: "新手资源"
+sidenav: docs
+---
+
+include::shared/zh-cn/urls.adoc[]
+
+= 新手资源
+
+== 获取 FreeBSD
+
+欢迎来到 FreeBSD！以下资源可以帮助新用户快速上手。
+
+* link:../where[获取 FreeBSD]
+* link:{handbook}[FreeBSD 使用手册]
+* link:../support[支持页面]
+
+== 学习资源
+
+* FreeBSD 文档项目
+* 邮件列表
+* IRC 频道
+
+更多面向新手的资源请参阅英文页面：https://www.FreeBSD.org/projects/newbies/

@@ -1,0 +1,30 @@
+---
+title: "FreeBSD 文档项目：翻译"
+sidenav: docs
+---
+
+= FreeBSD 文档项目：翻译
+
+以下是参与 FreeBSD 文档翻译的各个语言项目：
+
+* <<chinese-cn,简体中文文档项目>>
+* <<chinese-tw,繁体中文文档项目>>
+* <<russian,俄语文档项目>>
+* <<spanish,西班牙语文档项目>>
+* 以及其他语言项目...
+
+[[chinese-cn]]
+== 简体中文文档项目
+
+* 目前主要由 Chinese FreeBSD Community (CFC) 的 ykla 维护
+* 相关项目：FreeBSD-Ask（https://bsdcn.org/）
+
+[[chinese-tw]]
+== 繁体中文文档项目
+
+* 负责人：chinsan@FreeBSD.org
+* 网站：https://www.freebsd.org/zh-tw/
+
+如果你有兴趣参与中文 FreeBSD 内容的翻译和编写，欢迎联系对应项目的负责人或加入 freebsd-translators 邮件列表。
+
+更多翻译项目信息请参阅英文完整页面：https://www.FreeBSD.org/docproj/translations/

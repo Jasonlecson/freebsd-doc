@@ -1,0 +1,22 @@
+---
+title: "FreeBSD 版权与法律信息"
+sidenav: about
+---
+
+= FreeBSD 版权与法律信息
+
+== link:freebsd-license[FreeBSD 版权]
+
+== link:freebsd-doc-license[FreeBSD 文档许可]
+
+== link:trademarks[商标声明]
+
+== link:license[BSD 版权]
+
+== link:daemon[BSD Daemon]
+
+== link:COPYING[GNU 通用公共许可证]
+
+== link:COPYING.LIB[GNU 库通用公共许可证]
+
+== link:../privacy[FreeBSD 隐私政策]

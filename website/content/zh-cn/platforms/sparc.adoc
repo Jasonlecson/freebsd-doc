@@ -1,0 +1,15 @@
+---
+title: "FreeBSD/sparc64 项目"
+sidenav: developers
+---
+
+include::shared/releases.adoc[]
+include::shared/zh-cn/urls.adoc[]
+
+= FreeBSD/sparc64 项目
+
+本页面包含 FreeBSD 在 SPARC64 架构上的移植信息。
+
+该平台已在较新版本中停止支持（最后支持版本为 12.4）。
+
+更多 SPARC 平台历史信息请参阅英文页面：https://www.FreeBSD.org/platforms/sparc/

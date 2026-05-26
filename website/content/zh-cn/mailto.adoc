@@ -1,0 +1,23 @@
+---
+title: "联系 FreeBSD 社区"
+sidenav: about
+---
+
+include::shared/zh-cn/mailing-lists.adoc[]
+include::shared/zh-cn/urls.adoc[]
+
+= 联系 FreeBSD 社区
+
+欢迎您联系 FreeBSD 社区！
+
+== 主要联系方式
+
+* **邮件列表**：请访问 link:../community/mailinglists[邮件列表页面] 了解各个列表的用途和订阅方式。
+* **问题报告**：使用 https://bugs.freebsd.org/[Bugzilla] 提交 bug 或功能请求。
+* **IRC**：在 IRC 频道与开发者实时交流（请参阅 link:../community/irc[IRC 页面]）。
+
+== 官方联系
+
+对于项目管理或官方事务，请参考 link:../administration[项目管理与行政] 页面中的联系方式。
+
+更多联系信息请参阅英文页面：https://www.FreeBSD.org/mailto/

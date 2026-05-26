@@ -1,0 +1,25 @@
+---
+title: "FreeBSD 项目管理与行政"
+sidenav: about
+---
+
+include::shared/authors.adoc[]
+
+= FreeBSD 项目管理与行政
+
+== 简介
+
+本页面列出了 FreeBSD 项目中具有指定角色和责任范围的团队、小组和个人，以及简要描述和联系信息。
+
+* **项目管理**
+* **核心团队 (Core Team)**
+* **安全团队 (Security Team)**
+* **发布工程团队 (Release Engineering)**
+* **文档项目 (Documentation Project)**
+* **Ports 管理 (Port Management)**
+
+更多详细信息和最新联系方式，请参阅英文完整页面：
+
+https://www.FreeBSD.org/administration/
+
+**注意**：如果邮件服务器上的别名发生变化，本页面需要同步更新。

@@ -1,0 +1,15 @@
+---
+title: "FreeBSD 标志"
+sidenav: about
+---
+
+= FreeBSD 标志
+
+== 使用指南
+
+FreeBSD 是 FreeBSD 基金会的注册商标。
+
+FreeBSD 标志和 “The Power to Serve” 是 FreeBSD 基金会的商标。
+
+有关标志图像文件、商标使用条款和条件，以及如何获得使用标志的许可的更多信息，请参阅 FreeBSD 基金会的 FreeBSD 项目标志页面：  
+https://www.freebsdfoundation.org/about/project/

@@ -1,0 +1,46 @@
+---
+title: "FreeBSD 应用程序"
+sidenav: about
+---
+
+= 关于 FreeBSD 的应用程序
+
+== 体验 FreeBSD 的无限可能
+
+FreeBSD 能够处理您对 UNIX(R) 工作站所能期望的几乎任何任务，以及许多您可能意想不到的任务：
+
+== FreeBSD 是一个真正的开放系统，包含完整源代码。
+
+毫无疑问，所谓的开放系统是当今计算应用的要求。但没有哪个商业厂商提供的解决方案比包含整个操作系统（包括内核、所有系统守护进程、程序和工具）的完整源代码的方案更开放。您可以修改 FreeBSD 的任何部分，以满足个人、组织或企业的需求。
+
+凭借其宽松的 link:../copyright/freebsd-license/[许可政策]，您可以将 FreeBSD 用作任何数量的免费**或商业**应用程序的基础。
+
+== FreeBSD 运行数千种应用程序。
+
+由于 FreeBSD 基于 4.4BSD（工业标准的 UNIX 版本），因此很容易编译和运行程序。FreeBSD 还包含庞大的软件包集合和 link:../ports/[ports 集合]，可将预编译和易于构建的软件直接带到您的桌面或企业服务器。此外，还有越来越多的 link:../commercial/software/[商业应用程序] 是为 FreeBSD 编写的。
+
+以下是使用 FreeBSD 的一些环境示例：
+
+* **互联网服务**：许多互联网服务提供商 (ISP) 发现 FreeBSD 是理想的选择，用于运行 WWW、Usenet 新闻、FTP、电子邮件和其他服务。像 http://nginx.org[NGINX] 或 http://www.apache.org/[Apache] 这样的即用型网络服务器，或 http://proftpd.org/[ProFTPD]、http://security.appspot.com/vsftpd.html[vsftpd] FTP 服务器，让搭建面向企业或社区的 ISP 变得容易。当然，凭借 FreeBSD 无与伦比的 link:../internet/[网络功能]，您的用户将享受到高速、可靠的服务。
+
+* **X Window 工作站**：从廉价的 X 终端到高级 X 显示，FreeBSD 都能很好地工作。Free X 软件（https://x.org[X.Org](R)）随系统提供。https://www.nvidia.com[NVIDIA] 为其高性能图形硬件提供原生驱动，行业标准的 https://www.opengroup.org/motif[Motif](R) 和 https://www.opengl.org[OpenGL](R) 库也得到支持。https://xfce.org[Xfce] 和 https://lxde.org[LXDE] 产品提供了桌面环境。https://www.kde.org[KDE] 和 https://www.gnome.org[GNOME] 桌面环境也得到全面支持，并提供办公套件功能，https://www.libreoffice.org[LibreOffice] 和 https://www.openoffice.org[OpenOffice.Org] 产品也提供了进一步的良好功能。
+
+* **网络**：从数据包过滤到路由再到名称服务，FreeBSD 可以将任何 PC 转变为互联网防火墙、电子邮件主机、打印服务器、PC/NFS 服务器等。
+
+* **软件开发**：FreeBSD 附带了一整套 https://docs.freebsd.org/en/books/developers-handbook/tools[开发工具]，包括基于 LLVM 的 clang C/C++ 编译器和调试器。Java(R) 和 Tcl/Tk 开发也是可行的示例。FreeBSD 的共享库一直都很容易制作和使用。您还可以从广泛流行的强大编辑器中选择，例如 Emacs 和 Vim。
+
+* **上网冲浪**：真正的 UNIX 工作站是绝佳的互联网冲浪工具。FreeBSD 版本的 http://www.chromium.org/Home[Chromium] 和 http://www.mozilla.org/firefox[Firefox] 可供认真上网的用户使用。在桌面上的 FreeBSD 系统上冲浪网页、发布自己的网页、阅读 Usenet 新闻以及收发电子邮件。
+
+* **教育与研究**：FreeBSD 是一个出色的研究平台，因为它包含完整的源代码。学习和研究操作系统或其他计算机科学领域的学生和研究人员可以从这样一个开放且文档完善的系统中受益匪浅。
+
+* **以及更多**：会计、动作游戏、MIS 数据库、科学可视化、视频会议、互联网中继聊天 (IRC)、家庭自动化、多用户地下城、公告板系统、图像扫描等，都是当今 FreeBSD 的实际用途。
+
+== FreeBSD 是一个能够随着您的需求而成长的操作系统。
+
+虽然 FreeBSD 是自由软件，但它也是**用户支持**的软件。您的任何问题都可以通过向 freebsd-questions@FreeBSD.org 邮件列表发送电子邮件，直接向数百名 FreeBSD 开发者和用户提问。
+
+FreeBSD 还有一个全球的程序员和作家群体，他们修复 bug、添加新功能并记录系统。对新设备或特殊功能的支持几乎是一个持续的开发过程，团队特别关注影响系统稳定性的问题。FreeBSD 用户不仅为系统的速度感到自豪，也为系统的可靠性感到自豪。
+
+== 专家们怎么说……
+
+_"FreeBSD 能很好地处理[我们]的高负载，这简直太神奇了。向 FreeBSD 团队致敬。"_

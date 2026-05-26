@@ -1,0 +1,27 @@
+---
+title: "FreeBSD 艺术作品"
+sidenav: about
+---
+
+include::shared/authors.adoc[]
+
+= FreeBSD 艺术作品
+
+* <<bsd-daemon,BSD Daemon>>
+* <<powered-by,"Powered by FreeBSD" 标志>>
+* <<adv,旧广告横幅>>
+* <<use,图形使用>>
+
+本页面包含各种 FreeBSD “艺术作品”。
+
+如有补充建议，请发送至 www@FreeBSD.org。
+
+请注意这些图形的 <<use,使用政策>>。
+
+[[bsd-daemon]]
+== link:../copyright/daemon/[BSD Daemon]
+
+[.center]
+image:../gifs/daemon-phk.png[BSD Daemon,width=191,height=208]
+
+更多艺术作品和使用指南请参阅英文页面：https://www.FreeBSD.org/art/

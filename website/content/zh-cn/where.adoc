@@ -1,0 +1,57 @@
+---
+title: "获取 FreeBSD"
+sidenav: download
+---
+
+:url-rel: https://download.FreeBSD.org/releases
+:url-snapshot: https://download.freebsd.org/snapshots
+
+include::shared/releases.adoc[]
+include::shared/zh-cn/urls.adoc[]
+
+[[choose-version]]
+[[choose-arch]]
+[[install]]
+[[past]]
+= 获取 FreeBSD
+
+FreeBSD 操作系统可以通过本页提供的镜像获取，也可直接从云厂商处获取。
+
+在下载镜像之前，请先阅读 link:{handbook}bsdinstall/[**安装指南**]。
+
+有关支持的硬件架构信息，请参阅 link:../platforms/#_supported_platforms[平台] 页面。
+
+有关过去、现在和未来版本的一般信息，请参阅 link:../releases/[发行版信息] 或 http://ftp-archive.FreeBSD.org/pub/FreeBSD-Archive/old-releases/[历史发行版存档]。
+
+[[choose-image]]
+== 选择镜像
+
+FreeBSD 镜像提供多种格式，以适应不同的安装和部署场景：
+
+* **光盘 / DVD 镜像**：适用于传统物理机安装。
+* **内存盘镜像 (memstick)**：适用于 USB 闪存盘安装。
+* **虚拟机镜像**：适用于 VMware、VirtualBox 等虚拟化环境。
+* **云镜像**：适用于 Amazon EC2、Google Compute Engine、Microsoft Azure 等云平台。
+
+更多下载选项和镜像列表，请访问 link:{url-rel}[官方下载页面]。
+
+[[download-from-vendors]]
+== 从云厂商获取
+
+许多主流云服务提供商已提供 FreeBSD 镜像，您可以直接在云控制台中选择 FreeBSD 实例，无需手动下载镜像。
+
+* Amazon EC2
+* Google Cloud
+* Microsoft Azure
+* 以及其他提供商
+
+[[other-methods]]
+== 其他获取方式
+
+您也可以通过以下方式获取 FreeBSD：
+
+* 从 link:{handbook}mirrors[镜像站点] 下载
+* 使用 ports 或 pkg 安装额外软件
+* 加入 link:../community/mailinglists/[邮件列表] 获取最新动态
+
+如需获取特定版本或架构的详细说明，请参阅上方链接。

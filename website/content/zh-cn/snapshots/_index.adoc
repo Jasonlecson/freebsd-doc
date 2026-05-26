@@ -1,0 +1,18 @@
+---
+title: "FreeBSD 快照"
+sidenav: download
+---
+
+= FreeBSD 快照
+
+FreeBSD 提供开发中的快照版本，供用户测试最新功能。
+
+快照版本**不适合生产环境使用**，仅用于测试和反馈。
+
+更多快照信息请访问：https://download.freebsd.org/snapshots/
+
+== 注意事项
+
+- 快照可能包含不稳定代码
+- 建议在虚拟机或测试机器上使用
+- 请通过邮件列表或 Bugzilla 报告问题

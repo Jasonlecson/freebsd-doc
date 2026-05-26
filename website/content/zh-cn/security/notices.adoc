@@ -1,0 +1,17 @@
+---
+title: "FreeBSD 勘误通知"
+sidenav: security
+---
+
+= FreeBSD 勘误通知
+
+本页面列出 FreeBSD 的勘误通知 (Errata Notices)。
+
+这些通知通常针对非安全性的重要问题修复。
+
+== 获取方式
+
+* 订阅相关邮件列表
+* 查看英文完整列表：https://www.FreeBSD.org/security/notices/
+
+中文翻译会逐步补充。

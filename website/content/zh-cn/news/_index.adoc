@@ -1,0 +1,16 @@
+---
+title: "FreeBSD 新闻"
+sidenav: news
+---
+
+= FreeBSD 新闻
+
+本页面收集 FreeBSD 项目的最新新闻、公告和重要更新。
+
+== 最新新闻快讯
+
+include::newsflash.adoc[]
+
+更多历史新闻请参阅 link:https://www.FreeBSD.org/news/[英文新闻存档]（部分内容会逐步翻译）。
+
+如需获取 FreeBSD 最新动态，建议订阅 link:../community/mailinglists/[freebsd-announce 邮件列表]。

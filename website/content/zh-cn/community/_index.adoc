@@ -1,0 +1,22 @@
+---
+title: "FreeBSD 社区"
+sidenav: community
+---
+
+= FreeBSD 社区
+
+FreeBSD 拥有一个活跃且友好的全球社区。
+
+== 邮件列表
+
+FreeBSD 有多个专业的邮件列表，您可以在这里提问、讨论和获取帮助：
+
+* link:mailinglists[邮件列表列表]
+
+== 其他社区资源
+
+* IRC 频道
+* 论坛与社交媒体
+* 本地用户组 (User Groups)
+
+更多信息请参阅英文社区页面：https://www.FreeBSD.org/community/

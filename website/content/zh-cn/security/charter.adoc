@@ -1,0 +1,12 @@
+---
+title: "FreeBSD 安全团队章程"
+sidenav: support
+---
+
+= FreeBSD 安全团队章程
+
+FreeBSD 安全团队负责协调 FreeBSD 操作系统的安全相关事务，包括漏洞处理、安全公告发布以及整体安全策略。
+
+团队成员由核心团队任命，负责维护 FreeBSD 的安全态势。
+
+更多信息请参阅英文页面：https://www.FreeBSD.org/security/charter/

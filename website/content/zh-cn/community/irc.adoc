@@ -1,0 +1,20 @@
+---
+title: "IRC"
+sidenav: community
+---
+
+include::shared/zh-cn/urls.adoc[]
+
+= IRC
+
+FreeBSD 官方在 IRC 上设有多个频道，涵盖从一般支持到贡献和开发的各种主题和话题。
+
+许多项目团队都有专门的频道用于规划和协调。如果您对某个特定领域感兴趣，或者只是想参与讨论和学习，请访问我们的 https://wiki.freebsd.org/IRC[FreeBSD IRC 频道] wiki 页面获取更多信息。
+
+常用频道包括：
+
+* `#freebsd` - 一般讨论
+* `#freebsd-help` - 用户支持
+* `#freebsd-hackers` - 开发讨论
+
+更多频道列表请参阅英文 wiki。

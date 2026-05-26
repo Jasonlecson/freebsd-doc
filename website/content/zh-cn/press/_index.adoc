@@ -1,0 +1,13 @@
+---
+title: "FreeBSD 媒体报道"
+sidenav: press
+---
+
+= FreeBSD 媒体报道
+
+本页面收集 FreeBSD 相关的媒体报道和新闻稿。
+
+完整列表请参阅英文页面：  
+https://www.FreeBSD.org/press/
+
+中文翻译版本会逐步更新。

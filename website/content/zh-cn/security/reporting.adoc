@@ -1,0 +1,35 @@
+---
+title: "FreeBSD 安全漏洞报告信息"
+sidenav: support
+---
+
+include::shared/authors.adoc[]
+
+= FreeBSD 安全漏洞报告信息
+
+== 目录
+
+* <<how,如何以及向何处报告 FreeBSD 安全问题>>
+* <<sec,关于 FreeBSD 安全官的信息>>
+* <<pol,信息处理政策>>
+
+[[how]]
+== 如何以及向何处报告 FreeBSD 安全问题
+
+如果您发现 FreeBSD 中存在安全问题，请通过以下方式报告：
+
+* 发送邮件至 mailto:security-officer@FreeBSD.org[security-officer@FreeBSD.org]
+
+请提供尽可能详细的信息，包括重现步骤、受影响的版本等。
+
+[[sec]]
+== 关于 FreeBSD 安全官
+
+FreeBSD 安全官团队负责协调安全漏洞的处理和公告发布。
+
+[[pol]]
+== 信息处理政策
+
+FreeBSD 安全团队承诺负责任地处理收到的安全报告。
+
+更多详细信息请参阅英文完整页面：https://www.FreeBSD.org/security/reporting/

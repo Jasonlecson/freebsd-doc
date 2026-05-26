@@ -1,0 +1,18 @@
+---
+title: "FreeBSD 支持"
+sidenav: support
+---
+
+= FreeBSD 支持
+
+FreeBSD 拥有丰富的社区和商业支持选项，供用户选择。本站的 link:../community/[社区] 部分详细介绍了用户可从 FreeBSD 社区获得的各种支持，包括多个 link:../community/mailinglists[邮件列表]。
+
+多家 link:../commercial/[厂商] 也提供针对 FreeBSD 的商业产品、服务以及咨询等商业支持。
+
+== 问题报告
+
+在 FreeBSD 中发现了 bug？或者发现文档中存在错误？如果尚未报告，请告诉我们。
+
+要了解已经报告了哪些问题，您可以 https://bugs.freebsd.org/search/[搜索问题报告数据库]，按特定类别、受理人、报告人、文本等进行筛选，或 https://bugs.freebsd.org/browse/[按类别浏览开放的报告]。
+
+如果该 bug 尚未被报告，请先阅读我们的 link:../support/bugreports/[问题报告指南]，然后使用 https://bugs.freebsd.org/submit/[问题报告表单] 提交问题。

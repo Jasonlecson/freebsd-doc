@@ -1,0 +1,29 @@
+---
+title: "Web 资源"
+sidenav: support
+---
+
+= Web 资源
+
+* <<general,通用 UNIX(R) 信息>>
+* <<xwin,X Window 系统>>
+* <<related,相关操作系统项目>>
+
+[[general]]
+== 通用 UNIX(R) 信息
+
+* https://distrowatch.com/table.php?distribution=freebsd[FreeBSD Distrowatch 页面]
+
+[[xwin]]
+== X Window 系统
+
+* https://www.x.org[X.Org] 项目
+
+[[related]]
+== 相关操作系统项目
+
+* OpenBSD
+* NetBSD
+* DragonFly BSD
+
+更多 Web 资源请参阅英文完整页面：https://www.FreeBSD.org/support/webresources/

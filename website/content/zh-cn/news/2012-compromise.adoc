@@ -1,0 +1,17 @@
+---
+title: "2012 年 11 月 17 日公布的 FreeBSD.org 入侵事件"
+sidenav: about
+loadNews: false
+---
+
+= 2012 年 11 月 17 日公布的 FreeBSD.org 入侵事件
+
+2012 年 11 月，FreeBSD 项目宣布其基础设施曾遭到入侵。
+
+此次事件涉及 FreeBSD.org 网站及相关服务。项目安全团队随后发布了详细的安全公告，并采取了多项措施加强基础设施的安全性。
+
+此事件也促使 FreeBSD 项目进一步加强了安全流程和基础设施防护。
+
+**重要提醒**：该事件已为历史事件，相关服务和系统早已恢复并加强防护。
+
+详细报告请参阅英文页面：https://www.FreeBSD.org/news/2012-compromise/

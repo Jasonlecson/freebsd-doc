@@ -1,0 +1,19 @@
+---
+title: "FreeBSD 邮件列表"
+sidenav: community
+---
+
+= FreeBSD 邮件列表
+
+FreeBSD 项目使用邮件列表进行沟通和支持。以下是主要的邮件列表：
+
+* **freebsd-questions** — 一般性问题与支持（推荐新用户订阅）
+* **freebsd-announce** — 重要项目公告（低流量，强烈建议订阅）
+* **freebsd-security-notifications** — 安全公告通知
+* **freebsd-ports** — Ports 相关讨论
+* **freebsd-hackers** — 核心开发讨论
+
+完整列表和订阅方式请访问：  
+https://www.FreeBSD.org/community/mailinglists/
+
+中文用户也可以关注 CFC (Chinese FreeBSD Community) 相关讨论渠道。

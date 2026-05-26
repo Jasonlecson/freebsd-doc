@@ -1,0 +1,10 @@
+---
+title: "新闻快讯"
+---
+
+== 近期重要更新
+
+* **FreeBSD 15.0 开发进行中**：更多信息请关注官方公告。
+* **安全公告与勘误**：请定期查看 link:../security/advisories[安全公告] 和 link:../security/notices[勘误通知]。
+
+更多实时新闻请访问英文站点：https://www.FreeBSD.org/news/newsflash.html

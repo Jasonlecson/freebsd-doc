@@ -1,0 +1,12 @@
+---
+title: "FreeBSD 用户组"
+sidenav: community
+---
+
+= FreeBSD 用户组
+
+世界各地有许多 FreeBSD 用户组 (User Groups)。
+
+这些组织定期举办会议、讲座和活动，是学习和交流的好地方。
+
+更多用户组信息请参阅英文页面：https://www.FreeBSD.org/usergroups/

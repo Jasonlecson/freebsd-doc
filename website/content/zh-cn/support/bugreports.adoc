@@ -1,0 +1,25 @@
+---
+title: "问题报告"
+sidenav: support
+---
+
+include::shared/zh-cn/urls.adoc[]
+
+= 问题报告
+
+== 问题报告数据库
+
+* https://bugs.FreeBSD.org/search/[搜索当前问题报告]
+* https://bugs.FreeBSD.org/submit/[提交新问题报告]
+
+问题报告（简称 _PR_）可以是关于 FreeBSD 任何组件的问题，包括操作系统程序的问题、文档中的错误，或提交者希望加入的新功能。
+
+问题报告初始状态为 _new_，当问题解决后会被关闭。每个 PR 都会分配一个数字 ID 用于追踪。许多 FreeBSD 的修改都会引用促使该修改的问题报告编号。
+
+== 如何提交问题报告
+
+问题报告通过 https://bugs.FreeBSD.org/submit/[网页表单] 提交给开发团队。提交 bug 前需要先创建一个账号。请注意，发送到邮件列表的消息**不会**被当作正式的问题报告，可能会被忽略！
+
+在提交问题报告之前，请先阅读 link:{problem-reports}[撰写 FreeBSD 问题报告] 一文。该文章说明了何时应该提交问题报告以及应包含哪些内容。link:{pr-guidelines}[问题报告处理指南] 一文也包含了一些有用的背景信息。
+
+FreeBSD 的问题报告使用 http://www.bugzilla.org/[Bugzilla] 进行追踪。

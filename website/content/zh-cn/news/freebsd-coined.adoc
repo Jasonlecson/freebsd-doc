@@ -1,0 +1,12 @@
+---
+title: "FreeBSD 名称的由来"
+sidenav: news
+---
+
+= FreeBSD 名称的由来
+
+1993 年，FreeBSD 项目正式成立。
+
+"FreeBSD" 这个名称由项目创始人选择，体现了 "Free"（自由）和 "BSD" 的结合。
+
+更多历史故事请参阅英文页面。

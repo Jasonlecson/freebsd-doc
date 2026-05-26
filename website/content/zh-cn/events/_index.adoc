@@ -1,0 +1,10 @@
+---
+title: "FreeBSD 活动"
+sidenav: community
+---
+
+= FreeBSD 活动
+
+请将任何与 FreeBSD 相关的活动，或 FreeBSD 用户可能感兴趣但未在此列出的活动详情，发送至 freebsd-doc@FreeBSD.org。
+
+更多活动信息请参阅英文页面：https://www.FreeBSD.org/events/

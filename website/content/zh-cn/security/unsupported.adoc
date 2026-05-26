@@ -1,0 +1,12 @@
+---
+title: "不支持的 FreeBSD 版本"
+sidenav: support
+---
+
+= 不支持的 FreeBSD 版本
+
+以下发行版已不再受支持，但在此列出供参考。
+
+这些版本不再接收安全更新或错误修复。强烈建议用户升级到当前支持的版本。
+
+更多不支持版本的详细信息，请参阅英文页面：https://www.FreeBSD.org/security/unsupported/

@@ -1,0 +1,12 @@
+---
+title: "咨询服务（按类别）"
+sidenav: support
+vendor: consult
+grouped: true
+---
+
+FreeBSD 的强大、灵活性和可靠性吸引了众多用户和厂商。这里您可以找到为 FreeBSD 提供商业产品和/或服务的厂商。
+
+为方便起见，我们已将不断增长的商业列表分为几个部分。
+
+更多按类别分类的咨询服务信息请参阅英文完整列表：https://www.FreeBSD.org/commercial/consult_bycat/

@@ -1,0 +1,23 @@
+---
+title: "FreeBSD 安全公告"
+sidenav: security
+---
+
+= FreeBSD 安全公告
+
+本页面列出 FreeBSD 项目的官方安全公告 (Security Advisories)。
+
+强烈建议所有 FreeBSD 用户关注这些公告，并及时应用相关补丁或升级。
+
+== 如何获取最新安全公告
+
+* 订阅 link:../community/mailinglists/[freebsd-security-notifications] 邮件列表
+* 定期查看本页面
+* 使用 `freebsd-update` 工具自动获取安全更新
+
+== 近期安全公告
+
+详细的安全公告列表请参阅英文页面：  
+https://www.FreeBSD.org/security/advisories/
+
+我们会逐步将重要的安全公告翻译成简体中文。

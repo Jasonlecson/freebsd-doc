@@ -1,0 +1,14 @@
+---
+title: "软件厂商"
+sidenav: support
+vendor: software
+grouped: false
+---
+
+FreeBSD 的强大、灵活性和可靠性吸引了众多用户和厂商。这里您可以找到为 FreeBSD 提供商业产品和/或服务的厂商。
+
+== 软件厂商
+
+提供 FreeBSD 相关商业软件的厂商列表。
+
+更多软件厂商信息请参阅英文完整列表：https://www.FreeBSD.org/commercial/software/

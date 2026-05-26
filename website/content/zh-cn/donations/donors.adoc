@@ -1,0 +1,12 @@
+---
+title: "硬件捐助者页面"
+sidenav: about
+---
+
+= 硬件捐助者页面
+
+本页面记录了捐助团队进行的硬件交易，最新交易排在最前面。这些仅为已完成或被认为已完成的交易。
+
+如果有任何错误，请发送邮件至 donations@FreeBSD.org。
+
+更多捐助者信息请参阅英文完整列表：https://www.FreeBSD.org/donations/donors/

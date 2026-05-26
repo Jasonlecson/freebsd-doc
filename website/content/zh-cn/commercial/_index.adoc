@@ -1,0 +1,26 @@
+---
+title: "商业厂商"
+sidenav: support
+---
+
+= 商业厂商
+
+FreeBSD 的强大、灵活性和可靠性吸引了众多用户和厂商。
+
+以下是提供 FreeBSD 商业产品、服务和/或咨询的厂商列表。
+
+* link:consult_bycat[咨询服务] 无论您是刚刚开始使用 FreeBSD，还是需要完成大型项目，聘请顾问可能是您的答案。
+  您可以查看 link:consult[按字母顺序] 的列表，或者 link:consult_bycat[按类别] 查看。
+
+* link:hardware[硬件厂商] 需要专业工具、购买新桌面电脑，或填充预装 FreeBSD 的机架式服务器？这些公司可能有您需要的！
+
+* link:isp[互联网服务提供商] 如果您需要在基于 FreeBSD 的系统上获得网络空间，或希望将公司连接到互联网，这些公司可能提供您需要的服务！
+
+* link:software_bycat[软件厂商] 从音频播放器、网络驱动程序到商业数据库，FreeBSD 拥有各种工业级软件。
+  您可以查看 link:software[按字母顺序] 的列表，或者 link:software_bycat[按类别] 查看。
+
+如果您的公司支持与 FreeBSD 相关的产品、服务、咨询或支持，并希望添加到此页面，请在类别 Documentation->Website 下填写 link:../support/bugreports/[问题报告]。
+
+提交内容应包含一段中等长度的公司描述。
+
+请注意，在我们的列表中包含厂商并不代表 FreeBSD 项目对其产品或服务的认可。

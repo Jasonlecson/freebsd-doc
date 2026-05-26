@@ -1,0 +1,56 @@
+---
+title: "FreeBSD 安全信息"
+sidenav: support
+---
+
+include::shared/zh-cn/urls.adoc[]
+include::shared/releases.adoc[]
+
+= FreeBSD 安全信息
+
+== 简介
+
+FreeBSD 非常重视安全性，开发者们一直在努力使操作系统尽可能安全。本页面将提供当系统受到安全漏洞影响时应该采取的措施的相关信息。
+
+== 目录
+
+* <<reporting,报告 FreeBSD 安全事件>>
+* <<recent,近期 FreeBSD 安全漏洞>>
+* <<advisories,理解 FreeBSD 安全公告>>
+* <<how,如何更新系统>>
+* <<sup,支持的 FreeBSD 版本>>
+* <<model,FreeBSD 支持模式>>
+
+[[reporting]]
+== 报告 FreeBSD 安全事件
+
+如果您发现 FreeBSD 中存在安全漏洞，请通过电子邮件发送至 mailto:security-officer@FreeBSD.org[security-officer@FreeBSD.org] 报告。
+
+请参阅 link:reporting[安全漏洞报告信息] 页面了解更多细节。
+
+[[recent]]
+== 近期 FreeBSD 安全漏洞
+
+请查看 link:advisories[安全公告] 页面获取最新的安全公告。
+
+[[advisories]]
+== 理解 FreeBSD 安全公告
+
+FreeBSD 安全公告 (Security Advisory) 描述了已确认的安全漏洞及其修复方法。
+
+[[how]]
+== 如何更新系统
+
+强烈建议所有用户及时应用安全更新。
+
+推荐使用 `freebsd-update` 工具或从源代码重新编译受影响的组件。
+
+[[sup]]
+== 支持的 FreeBSD 版本
+
+只有当前支持的版本会收到安全更新。请参阅 link:../unsupported[不支持的 FreeBSD 版本]。
+
+[[model]]
+== FreeBSD 支持模式
+
+FreeBSD 采用分层支持模式。详细信息请参阅相关文档。

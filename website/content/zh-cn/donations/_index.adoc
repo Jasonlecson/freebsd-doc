@@ -1,0 +1,31 @@
+---
+title: "FreeBSD 捐款联络"
+sidenav: about
+---
+
+= FreeBSD 捐款联络
+
+== FreeBSD 基金会货币捐款
+
+FreeBSD 基金会的筹款工作对于保持 FreeBSD 自由至关重要。随着项目的发展，成本也在增加。
+
+通过向基金会捐款，您可以帮助我们资助和管理项目、赞助 FreeBSD 活动，并为 FreeBSD 开发者提供旅行资助。您也在帮助我们代表项目执行合同、许可协议、版权、商标和其他需要合法实体的法律安排。
+
+要向 FreeBSD 基金会进行货币捐款，请访问 https://www.freebsdfoundation.org/donate/[FreeBSD 基金会] 捐款页面。
+
+== 目录
+
+* <<#goal,捐款联络目标>>
+* <<#charter,捐款联络章程>>
+* <<#donating,向 FreeBSD 项目捐款>>
+
+== 其他捐款链接
+
+* link:donors[FreeBSD 捐款列表]
+
+[[goal]]
+== 项目目标
+
+随着 FreeBSD 用户群的增长，希望向项目捐赠物资或资金的人数也在增加。捐款联络旨在简化这些捐款的处理，并确保它们得到及时合理的处理。
+
+更多捐款信息请参阅英文页面：https://www.FreeBSD.org/donations/

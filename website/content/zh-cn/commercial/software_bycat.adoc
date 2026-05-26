@@ -1,0 +1,16 @@
+---
+title: "软件厂商（按类别）"
+sidenav: support
+vendor: software
+grouped: true
+---
+
+FreeBSD 的强大、灵活性和可靠性吸引了众多用户和厂商。这里您可以找到为 FreeBSD 提供商业产品和/或服务的厂商。
+
+为方便起见，我们已将不断增长的商业列表分为几个部分。
+
+如果您的公司支持与 FreeBSD 相关的产品、服务、咨询或支持，并希望添加到此页面，请在 Documentation->Website 类别下提交 https://www.freebsd.org/support/bugreports/[问题报告]。提交内容应包含一段中等长度的公司描述。
+
+请注意，在我们的列表中包含厂商并不代表 FreeBSD 项目对其产品或服务的认可。
+
+更多按类别分类的软件厂商信息请参阅英文完整列表：https://www.FreeBSD.org/commercial/software_bycat/
